@@ -19,6 +19,8 @@ RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown,openxlsx
 VignetteBuilder: knitr
 Imports: httr,XML,tibble,RUnit,plyr,DT,RCurl,RJSONIO,methods
+URL: https://github.com/izhbannikov/haplor
+BugReports: https://github.com/izhbannikov/haplor/issues
 Depends: R (>= 3.4.0)
 Encoding: UTF-8
 License: GPL-3
